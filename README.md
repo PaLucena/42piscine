@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/stats?cursusId=9&coalitionId=216" alt="palucena's 42 stats" />
-  </a>
-</p>
-
 <h1 align="center">
   <p>42 Piscine proyects</p>
 </h1>
